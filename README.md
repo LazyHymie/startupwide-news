@@ -7,7 +7,7 @@ Source: Google Developers - Progressive Web Apps
 
 
 
-Online demo can be found on tbd
+Online demo can be found on https://lazyhymie.github.io/startupwide-news/.
 
 Running locally
 Serve folder with your server of choice. For instance npm install -g serve.
