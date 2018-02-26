@@ -2,7 +2,7 @@
 const apiKey = 'a6979fffd9374c7c808b9c4fec33e741';
 // const keyword = document.querySelectorAll("nav ul li a");
 const main = document.querySelector('main');
-const keyword = 'top-headlines'
+const keyword = 'top-headlines';
 
 // if ('serviceWorker' in navigator) {
 //   navigator.serviceWorker.register('sw.js');
